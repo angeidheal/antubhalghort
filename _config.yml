@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 
 #baseurl: "/antubhalghort" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://angeidheal.github.io" # the base hostname & protocol for your site
 
 #footer
 built-by: Crìstean MacMhìcheil
