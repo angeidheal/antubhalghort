@@ -1,27 +1,13 @@
 ---
 title: 'Còdachadh: Cuimhneachain'
-
 date: 2017-08-02
-
 author: Crìstean MacMhìcheil
-
 layout: post
-
 image: /images/posts/2017-08-02-codachadh-cuimhneachain.webp
-
 categories:
     - Còdachadh
     - Gàidhlig
     - Pròiseactan
-
-tags:
-    - App Store
-    - Apple
-    - Còdachadh
-    - Cuimhneachain
-    - Gàidhlig
-    - iOS
-    - Xcode
 ---
 
 Seo agaibh sealladh air aon de na h-aplacaidean shìmplidh air a bheil mi a’ leasachadh fhad ’s a tha mi ag ionnsachadh còdach fhad ‘s a tha mi ag ionnsachadh mu dheidhinn còdachadh airson iOS.
