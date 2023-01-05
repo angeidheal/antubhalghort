@@ -25,4 +25,4 @@ Ma tha neach sam bith agaibh airson a chleachdadh gus blog Jekyll a chruthachadh
 
 Ma tha sibh airson eisimpleir beò fhaicinn ro-làimh, tha mi air an còd ùr a chur an gnìomh mar-thà aig [Geidh.uk](https://geidh.uk/), [AtUG.uk](https://atug.uk/) agus [mo bhlog](https://macmhicheil.uk/blog/).
 
-[^1][A’ gluasad bho WordPress gu Jekyll\]({{ site.baseurl }}/2019/02/17/a-gluasad-bho-wordpress-gu-jekyll/)
+[^1]: [A’ gluasad bho WordPress gu Jekyll\]({{ site.baseurl }}/2019/02/17/a-gluasad-bho-wordpress-gu-jekyll/)
