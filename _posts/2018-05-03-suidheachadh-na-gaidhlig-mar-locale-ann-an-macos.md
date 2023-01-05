@@ -1,0 +1,54 @@
+---
+id: 110
+title: 'Suidheachadh na Gàidhlig mar locale ann an macOS'
+date: '2018-05-03T14:08:54+00:00'
+author: 'Crìstean MacMhìcheil'
+layout: post
+guid: 'https://macmhicheil.scot/?p=110'
+permalink: /2018/05/03/suidheachadh-na-gaidhlig-mar-locale-ann-an-macos/
+image: /wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.jpg
+categories:
+    - Apple
+    - Gàidhlig
+    - Ionadaileadh
+tags:
+    - Apple
+    - Gaelic
+    - Gàidhlig
+    - ionadaileadh
+    - localisation
+    - 'Mac OS X'
+    - macOS
+---
+
+Gu mì-fhòrtanach chan eil cus Gàidhlig ann am macOS aig an ìre-sa ach o Mac OS X 10.8 a-mach ’s urrainn dhut Gàidhlig a thaghadh mar locale. Tha seo a’ ciallachadh gum bi prògraman treas-phàrtaidh a leithid Opera, VLC agus LibreOffice (agus prògraman eile a chleachdas gleus a dh’atharraicheas cànan nam prògraman a-rèir an locale) a’ nochdadh anns a’ Ghàidhlig ged nach bi na prògraman a thàinig le Apple fhèin.
+
+Airson Gàidhlig a thaghadh mar locale feumaidh tu na leanas a dhèanamh:
+
+macOS 10.8 agus nas sìne:
+
+System Preferences » Language &amp; Text » Edit List » Tagh Gàidhlig ’s dèan cinnteach gu bheil i aig mullach na liosta
+
+macOS 10.9 agus nas ùire:
+
+System Preferences » Language &amp; Region » + » Tagh Gàidhlig ’s dèan cinnteach gu bheil i aig mullach na liosta
+
+Nuair a tha thu air sin a dhèanamh bidh am mìosachan, an ceann-latha agus cuid a phrògraman treas-phàrtaidh a’ nochdadh na Gàidhlig.
+
+Mar seo:
+
+(‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
+
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 1](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-01.png)
+
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 2](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-02.png)
+
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 3](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-03.png)
+
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 4](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-04.png)
+
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 5](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-05.png)
+
+![Calendar macOS anns a' Ghàidhlig](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-06.png)
+
+![Cluicheadair VLC anns a' Ghàidhlig](/wp-content/uploads/2022/12/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-07.png)

@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <a class="navbar-brand" href={{"/" | relative_url}} style="font-family: Lemonada">{{ site.title }}</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href={{"/" | relative_url}}><strong>Blog</strong></a>
+      </li>
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="navbarDropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          <strong>Na Pròiseactan agam</strong>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://angeidhealur.scot/" target="_blank"><strong>An Gèidheal Ùr</strong></a>
+          <a class="dropdown-item" href="http://faclair.lgbt/" target="_blank"><strong>Faclair nan Gèidheal</strong></a>
+          <a class="dropdown-item" href="https://aimsir.scot/" target="_blank"><strong>Aimsir.scot</strong></a>
+          <a class="dropdown-item" href="https://criomagan.scot/" target="_blank"><strong>Criomagan</strong></a>
+          <a class="dropdown-item" href="https://dethadol.scot/" target="_blank"><strong>Dè tha dol?</strong></a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://github.com/MacMhicheil" target="_blank"><strong>GitHub</strong></a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/mu-mo-dheidhinn/" | relative_url}}><strong>Mu mo dheidhinn</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/lorg/" | relative_url}} ><i class="fa-solid fa-magnifying-glass"></i></a>
+      </li>
+    </ul>
+  </div>
+</nav>
