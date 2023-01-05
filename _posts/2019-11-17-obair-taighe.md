@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=84'
 permalink: /2019/11/17/obair-taighe/
-image: /wp-content/uploads/2022/12/working-copy.png
+image: /images/posts/working-copy.png
 categories:
     - 'An Gèidheal Ùr'
     - Còdachadh

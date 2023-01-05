@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=180'
 permalink: /2022/12/15/faclair-lgbt/
-image: /wp-content/uploads/2022/11/fnang.webp
+image: /images/posts/fnang.webp
 categories:
     - 'An Gèidheal Ùr'
     - 'Faclair nan Gèidheal'

@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=21'
 permalink: /2022/11/20/swiftkey-ri-fhaighinn-air-ios-a%e2%80%91rithist/
-image: /wp-content/uploads/2022/12/SwiftKey-scaled.webp
+image: /images/posts/SwiftKey.webp
 categories:
     - Apple
     - Gàidhlig

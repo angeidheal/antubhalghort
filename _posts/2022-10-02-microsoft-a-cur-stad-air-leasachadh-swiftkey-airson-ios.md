@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=75'
 permalink: /2022/10/02/microsoft-a-cur-stad-air-leasachadh-swiftkey-airson-ios/
-image: /wp-content/uploads/2022/12/SwiftKey-scaled.webp
+image: /images/posts/SwiftKey-scaled.webp
 categories:
     - Apple
     - Gàidhlig

@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=77'
 permalink: /2020/05/08/an-dearbhair-beag-ann-am-macos/
-image: /wp-content/uploads/2022/12/an-dearbhar-beag-macos.png
+image: /images/posts/an-dearbhar-beag-macos.png
 categories:
     - Apple
     - Gàidhlig

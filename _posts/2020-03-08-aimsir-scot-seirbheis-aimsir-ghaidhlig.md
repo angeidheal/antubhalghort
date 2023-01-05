@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=81'
 permalink: /2020/03/08/aimsir-scot-seirbheis-aimsir-ghaidhlig/
-image: /wp-content/uploads/2022/12/aimsir-scot.webp
+image: /images/posts/aimsir-scot.webp
 categories:
     - Aimsir.scot
     - Còdachadh

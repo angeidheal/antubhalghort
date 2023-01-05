@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=127'
 permalink: /2011/07/24/stracan-ann-am-mac-os-x-10-7-lion/
-image: /wp-content/uploads/2022/12/stracan-macos.jpeg
+image: /images/posts/2022/12/stracan-macos.jpeg
 categories:
     - Apple
     - Gàidhlig

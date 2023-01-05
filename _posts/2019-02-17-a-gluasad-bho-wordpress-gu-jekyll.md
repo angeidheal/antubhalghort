@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=87'
 permalink: /2019/02/17/a-gluasad-bho-wordpress-gu-jekyll/
-image: /wp-content/uploads/2022/12/jekyll.jpg
+image: /images/posts/jekyll.jpg
 categories:
     - 'An Gèidheal Ùr'
     - Còdachadh

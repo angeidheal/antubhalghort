@@ -6,7 +6,7 @@ author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/?p=6'
 permalink: /2022/11/14/faclair-nan-geidheal-2-0-air-a-chur-air-bhog/
-image: /wp-content/uploads/2022/11/fnang.webp
+image: /images/posts/fnang.webp
 categories:
     - 'An Gèidheal Ùr'
     - 'Faclair nan Gèidheal'
