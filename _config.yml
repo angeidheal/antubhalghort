@@ -7,33 +7,21 @@
 
 # Site settings
 title: An t-Ubhal-ghort
-email: chris@macmhicheil.scot
 description: > # this means to ignore newlines until "baseurl:"
   Apple, teicneòlas is stuthan eile bho Chrìstean MacMhìcheil
-
 
 #baseurl: "/antubhalghort" # the subpath of your site, e.g. /blog
 url: "https://angeidheal.github.io" # the base hostname & protocol for your site
 
 #footer
-built-by: Crìstean MacMhìcheil
-
-copyright:
-   name: Crìstean MacMhìcheil
-   link: 'https://macmhicheil.scot'
+author-name: Crìstean MacMhìcheil
+author-website: "https://macmhicheil.scot"
 
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
 paginate: 12
 paginate_path: /duilleag-:num/
-
-# Tracker
-analytics:
-
-# Comments
-disqus: no
-disqus-shortname:
 
 #social
 mastodon: https://www.mastodon.scot/@angeidheal
@@ -52,18 +40,5 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-months:
-    - Am Faoilleach
-    - An Gearran
-    - Am Màrt
-    - An Giblean
-    - An Cèitean
-    - An t-Ògmhios
-    - An t-Iuchar
-    - An Lùnastal
-    - An t-Sultain
-    - An Dàmhair
-    - An t-Samhain
-    - An Dùbhlachd
-
+# Insert into a post and the content which appears before it will be come the post excerpt
 excerpt_separator: <!--more-->
