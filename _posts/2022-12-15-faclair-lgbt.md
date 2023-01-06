@@ -8,6 +8,8 @@ categories:
     - Blog
     - Gàidhlig
     - LGBTQIA+
+excerpt:
+  "Chaidh Faclair nan Gèidheal ùrachadh le URL ùr snasail agus faodar a rannsachadh a-nis! Tha e fhathast ri lorg air làrach-lìn a’ Ghèidheil Ùire cuideachd."
 ---
 
 Chaidh Faclair nan Gèidheal ùrachadh le URL ùr snasail[^1] agus faodar a rannsachadh a-nis! Tha e fhathast ri lorg air làrach-lìn a’ Ghèidheil Ùire cuideachd.
