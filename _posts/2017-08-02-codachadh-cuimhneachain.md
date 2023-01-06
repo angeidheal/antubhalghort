@@ -21,3 +21,18 @@ Seo agaibh sealladh air aon de na h-aplacaidean shìmplidh air a bheil mi a’ l
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-03.jpeg){: .post-image }
 
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-04.jpeg){: .post-image }
+
+
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="/images/posts/2017-08-02-codachadh-cuimhneachain-01.jpeg" alt="Image 1">
+        <figcaption>Image 1</figcaption>
+    </figure>
+    <figure>
+        <img src="/images/posts/2017-08-02-codachadh-cuimhneachain-02.jpeg" alt="Image 2">
+        <figcaption>Image 2</figcaption>
+    </figure>
+    <figure>
+        <img src="/images/posts/2017-08-02-codachadh-cuimhneachain-03.jpeg" alt="">
+    </figure>
+</div>
