@@ -38,6 +38,3 @@ sass:
 # Ruby Gems
 plugins:
   - jekyll-paginate
-
-# Insert into a post and the content which appears before it will be come the post excerpt
-excerpt_separator: <!--more-->
