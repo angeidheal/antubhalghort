@@ -9,10 +9,10 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-  {% for post in site.categories[page.category] %}   
-  <div class="row" style="border-bottom: 1px solid whitesmoke; margin-bottom: 15px;">
+  {% for post in site.categories[page.category] %}
+  <div class="row">
     <div class="col-md-3">
-      <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
+      <p style="font-size: 14px">
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%d" }}
         {% case m %}
@@ -29,7 +29,7 @@ layout: page
           {% when '11' %}An t-Samhain
           {% when '12' %}An Dùbhlachd
         {% endcase %}
-        {{ post.date | date: "%Y" }}</small></span></p>
+        {{ post.date | date: "%Y" }}</p>
     </div>
     <div class="col-md-9">
       <p><strong><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></strong></p>
