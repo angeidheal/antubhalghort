@@ -1,25 +1,12 @@
 ---
-id: 90
-title: 'Suidheachadh na Gàidhlig mar locale ann an iOS'
-date: '2018-05-07T11:34:09+00:00'
-author: 'Crìstean MacMhìcheil'
+title: Suidheachadh na Gàidhlig mar locale ann an iOS
+date: 2018-05-07 11:34
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=90'
-permalink: /2018/05/07/suidheachadh-na-gaidhlig-mar-locale-ann-an-ios/
 image: /images/posts/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios.png
 categories:
-    - Apple
     - Gàidhlig
-    - Ionadaileadh
-tags:
-    - Apple
-    - Gaelic
-    - Gàidhlig
-    - ionadaileadh
-    - iOS
-    - iPad
-    - iPhone
-    - localisation
+    - Teicneòlas
 ---
 
 Coltach ri macOS chan eil cùs Gàidhlig a’ nochdadh ann an iOS.

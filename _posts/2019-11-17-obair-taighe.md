@@ -5,9 +5,8 @@ author: Crìstean MacMhìcheil
 layout: post
 image: /images/posts/working-copy.png
 categories:
-    - 'An Gèidheal Ùr'
-    - Còdachadh
-    - Pròiseactan
+    - Blog
+    - Teicneòlas
 ---
 
 Tha mi duilich gu bheil Geidh.uk air a bhith sàmhach o chionn ghoirid ach tha mi air a bhith trang leis m’ obair làitheil. Nuair a tha ùine shaor air a bhith agam tha mi air a bhith ag obair air còd Geidh.uk a sgioblachadh agus a dhèanamh nas èifeachdaiche.

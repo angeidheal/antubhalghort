@@ -1,21 +1,12 @@
 ---
-id: 87
-title: 'A&#8217; gluasad bho WordPress gu Jekyll'
-date: '2019-02-17T18:00:15+00:00'
-author: 'Crìstean MacMhìcheil'
+title: "A' gluasad bho WordPress gu Jekyll"
+date: 2019-02-17 18:00
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=87'
-permalink: /2019/02/17/a-gluasad-bho-wordpress-gu-jekyll/
 image: /images/posts/jekyll.jpg
 categories:
-    - 'An Gèidheal Ùr'
-    - Còdachadh
-    - Pròiseactan
-tags:
-    - 'An Gèidheal Ùr'
-    - 'GitHub Pages'
-    - Jekyll
-    - Wordpress
+    - Blog
+    - Teicneòlas
 ---
 
 O chionn 2008 tha Geidh.uk air a bhith na bhlog WordPress (a’ ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a’ cumail suas leam fhèin.

@@ -1,24 +1,12 @@
 ---
-id: 77
-title: 'An Dearbhair Beag ann am macOS'
-date: '2020-05-08T15:00:24+00:00'
-author: 'Crìstean MacMhìcheil'
+title: An Dearbhair Beag ann am macOS
+date: 2020-05-08 15:00
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=77'
-permalink: /2020/05/08/an-dearbhair-beag-ann-am-macos/
 image: /images/posts/an-dearbhar-beag-macos.png
 categories:
-    - Apple
     - Gàidhlig
-    - Litreachadh
-tags:
-    - 'An Dearbhair Beag'
-    - Gaelic
-    - Gàidhlig
-    - Hunspell
-    - litreachadh
-    - 'Mac OS X'
-    - macOS
+    - Teicneòlas
 ---
 
 Tha an Dearbhair Beag ’na dhearbhair-litreachaidh a tha stèidhichte air stòr-dàta nam faclan a tha san Fhaclair Bheag agus is esan an dearbhair as motha a tha ri fhaighinn aig an àm seo. Tha e air a fhilleadh ann an tionndaidhean Gàidhlig de na prògraman LibreOffice, OpenOffice agus Firefox o thùs. Is e adhbhar am post seo ge-tà sealltainn dhut mar a ghabhas a chleachdadh le taghadh nas fharsainge de phrògraman ann am MacOS.

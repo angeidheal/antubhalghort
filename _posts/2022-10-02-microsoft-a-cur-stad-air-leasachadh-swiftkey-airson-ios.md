@@ -1,35 +1,12 @@
 ---
-id: 75
-title: 'Microsoft a&#8217; cur stad air leasachadh SwiftKey airson iOS'
-date: '2022-10-02T15:00:53+00:00'
-author: 'Crìstean MacMhìcheil'
+title: "Microsoft a' cur stad air leasachadh SwiftKey airson iOS"
+date: 2022-10-02 15:00
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=75'
-permalink: /2022/10/02/microsoft-a-cur-stad-air-leasachadh-swiftkey-airson-ios/
 image: /images/posts/SwiftKey.webp
 categories:
-    - Apple
     - Gàidhlig
-    - Litreachadh
-    - Microsoft
-tags:
-    - Albais
-    - 'An Dearbhair Beag'
-    - Apple
-    - Còrnais
-    - Cornish
-    - Cuimris
-    - Gaeilge
-    - Gaelic
-    - Gàidhlig
-    - 'Gàidhlig Mhanainn'
-    - Irish
-    - litreachadh
-    - Manx
-    - Microsoft
-    - Scots
-    - SwiftKey
-    - Welsh
+    - Teicneòlas
 ---
 
 Bìdh Microsoft a’ toirt SwiftKey às a’ bhùth air iOS 5mh An Dàmhair.

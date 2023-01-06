@@ -1,13 +1,13 @@
 ---
-title: 'Còdachadh: Cuimhneachain'
+title: "Còdachadh: Cuimhneachain"
 date: 2017-08-02
 author: Crìstean MacMhìcheil
 layout: post
 image: /images/posts/2017-08-02-codachadh-cuimhneachain.webp
 categories:
-    - Còdachadh
+    - Blog
     - Gàidhlig
-    - Pròiseactan
+    - Teicneòlas
 ---
 
 Seo agaibh sealladh air aon de na h-aplacaidean shìmplidh air a bheil mi a’ leasachadh fhad ’s a tha mi ag ionnsachadh còdach fhad ‘s a tha mi ag ionnsachadh mu dheidhinn còdachadh airson iOS.

@@ -1,26 +1,13 @@
 ---
-id: 81
-title: 'Aimsir.scot – Seirbheis aimsir Ghàidhlig'
-date: '2020-03-08T08:00:32+00:00'
-author: 'Crìstean MacMhìcheil'
+title: Aimsir.scot – Seirbheis aimsir Ghàidhlig
+date: 2020-03-08 08:00
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=81'
-permalink: /2020/03/08/aimsir-scot-seirbheis-aimsir-ghaidhlig/
 image: /images/posts/aimsir-scot.webp
 categories:
-    - Aimsir.scot
-    - Còdachadh
+    - Blog
     - Gàidhlig
-    - Pròiseactan
-tags:
-    - aimsir
-    - Aimsir.scot
-    - DarkSky
-    - Gaeilge
-    - Gaelic
-    - Gàidhlig
-    - Irish
-    - weather
+    - Teicneòlas
 ---
 
 Ma dh’fhaoidte gum bi cuid dhuibh eòlach air an aplacaid aimsire air leth [Dark Sky](https://darksky.net/), uill tha mi air seirbheis aimsir Ghàidhlig a chruthachadh leis an API aca agus i a‑nis beò aig [Aimsir.scot](https://aimsir.scot/).

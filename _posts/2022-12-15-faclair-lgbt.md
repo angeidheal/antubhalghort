@@ -1,17 +1,13 @@
 ---
-id: 180
 title: Faclair.lgbt
-date: '2022-12-15T17:00:42+00:00'
-author: 'Crìstean MacMhìcheil'
+date: 2022-12-15 17:00  
+author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://macmhicheil.scot/?p=180'
-permalink: /2022/12/15/faclair-lgbt/
 image: /images/posts/fnang.webp
 categories:
-    - 'An Gèidheal Ùr'
-    - 'Faclair nan Gèidheal'
+    - Blog
     - Gàidhlig
-    - Pròiseactan
+    - LGBTQIA+
 ---
 
 Chaidh Faclair nan Gèidheal ùrachadh le URL ùr snasail[^1] agus faodar a rannsachadh a-nis! Tha e fhathast ri lorg air làrach-lìn a’ Ghèidheil Ùire cuideachd.
