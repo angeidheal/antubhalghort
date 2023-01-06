@@ -4,6 +4,8 @@ title: Mu mo dheidhinn
 permalink: /mu-mo-dheidhinn/
 ---
 
+<img class="avatar" src="/images/icons/cristean.jpg" />
+
 Is mise Crìstean MacMhìcheil. Rugadh is thogadh mi ann an Siorrachd Rois.
 
 Cheumnaich mi bho Sabhal Mòr Ostaig ann an 2010 le BA (le Urram) ann an Gàidhlig is Leasachadh.
@@ -39,5 +41,3 @@ Faodar fios a chur thugam air:
 [^2]: B’ e Naidheachdan Pinc a th’ ainm a bh’ air bho thùs.
 
 [^3]: Faodar ga cleachdadh sa Gaeilge cuideachd.
-
-<img class="avatar" src="/images/icons/cristean.jpg" />
