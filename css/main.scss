@@ -137,11 +137,12 @@ article.post {
   display: block;
   max-width: 100%;
   height: auto;
-  border: 1px solid whitesmoke;
 }
 
-.post-img img {
-  width: 100%;
+.post-body-image {
+  margin: 20px auto;
+  display: block;
+  max-height: 540px;
 }
 
 .avatar {
