@@ -3,7 +3,7 @@ title: "Còdachadh: Cuimhneachain"
 date: 2017-08-02
 author: Crìstean MacMhìcheil
 layout: post
-image: /images/posts/2017-08-02-codachadh-cuimhneachain.webp
+image: /images/posts/2017-08-02-codachadh-cuimhneachain.jpeg
 categories:
     - Blog
     - Gàidhlig
