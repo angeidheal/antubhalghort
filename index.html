@@ -26,7 +26,8 @@ title: Postaichean as ùire
         {% endcase %}
         {{ post.date | date: "%Y" }}
       </p>
-      <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+      <p>{{ post.excerpt }}</p>
+      <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr <i class="fa-solid fa-circle-chevron-right"></i></a></p>
     </div>
   </div>
   {% endfor %}
