@@ -1,23 +1,15 @@
-- title: Postaichean gu lèir
-  url: /blog
-  description: Postaichean gu lèir
-
-- title: Còdachadh
-  url: /roinn-seorsa/codachadh
-  description: Postaichean mu chòdachadh
-
-- title: Eile
-  url: /roinn-seorsa/eile
+- title: Blog
+  url: /roinn-seorsa/blog
   description:
 
 - title: Gàidhlig
   url: /roinn-seorsa/gaidhlig
-  description: Postaichean mu Ghàidhlig
-
-- title: LGDT+
-  url: /roinn-seorsa/lgdt
   description:
 
-- title: Vegan
-  url: /roinn-seorsa/vegan
+- title: LGBTQIA+
+  url: /roinn-seorsa/lgbtqia
+  description:
+
+- title: Teicneòlas
+  url: /roinn-seorsa/teicneolas
   description:
