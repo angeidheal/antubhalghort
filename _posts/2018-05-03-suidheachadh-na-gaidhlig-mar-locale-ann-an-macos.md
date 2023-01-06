@@ -27,16 +27,4 @@ Mar seo:
 
 (‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 1](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-01.png)
-
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 2](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-02.png)
-
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 3](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-03.png)
-
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 4](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-04.png)
-
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 5](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-05.png)
-
-![Calendar macOS anns a' Ghàidhlig](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-06.png)
-
-![Cluicheadair VLC anns a' Ghàidhlig](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-07.png)
+![Suidheachadh na Gàidhlig ann am macOS](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.gif)
