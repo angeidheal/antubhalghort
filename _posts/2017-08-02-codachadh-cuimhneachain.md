@@ -15,9 +15,6 @@ Seo agaibh sealladh air aon de na h-aplacaidean shìmplidh air a bheil mi a’ l
 ‘S ann airson adhbharan ionnsachaidh a tha mi a’ cruthachadh na h-aplacaidean seo ’s mar sin chan eil mi an dùil gun leig mi mu sgaoil iad ach nam bu toigh leat gin dhiubh fhaicinn san App Store, cuir fios thugam.
 
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-01.jpeg){: .post-body-image }
-
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-02.jpeg){: .post-body-image }
-
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-03.jpeg){: .post-body-image }
-
 ![Glachadh-sgrìn dhen aplacaid Cuimhneachain](/images/posts/2017-08-02-codachadh-cuimhneachain-04.jpeg){: .post-body-image }
