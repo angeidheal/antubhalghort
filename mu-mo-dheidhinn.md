@@ -18,8 +18,6 @@ Ann an 2020, chruthaich mi an t‑seirbheis aimsir Ghàidhlig[^3], Aimsir.scot.
 
 Tha mi nam bhìogan.
 
-<img class="avatar" src="/images/icons/cristean.jpg" />
-
 #### Cuir fios
 
 Faodar fios a chur thugam air:
@@ -41,3 +39,5 @@ Faodar fios a chur thugam air:
 [^2]: B’ e Naidheachdan Pinc a th’ ainm a bh’ air bho thùs.
 
 [^3]: Faodar ga cleachdadh sa Gaeilge cuideachd.
+
+<img class="avatar" src="/images/icons/cristean.jpg" />
