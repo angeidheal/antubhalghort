@@ -4,8 +4,6 @@ title: Mu mo dheidhinn
 permalink: /mu-mo-dheidhinn/
 ---
 
-<img class="avatar" src="/images/icons/cristean.jpg" />
-
 Is mise Crìstean MacMhìcheil. Rugadh is thogadh mi ann an Siorrachd Rois.
 
 Cheumnaich mi bho Sabhal Mòr Ostaig ann an 2010 le BA (le Urram) ann an Gàidhlig is Leasachadh.
@@ -19,6 +17,8 @@ Ann an 2008, stèidhich mi am blog naidheachd LGBT+, An Gèidheal Ùr[^2].
 Ann an 2020, chruthaich mi an t‑seirbheis aimsir Ghàidhlig[^3], Aimsir.scot.
 
 Tha mi nam bhìogan.
+
+<img class="avatar" src="/images/icons/cristean.jpg" />
 
 #### Cuir fios
 
