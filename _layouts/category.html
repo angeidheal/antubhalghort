@@ -11,7 +11,7 @@ layout: page
 
   {% for post in site.categories[page.category] %}
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
       <p>
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%d" }}
@@ -31,7 +31,7 @@ layout: page
         {% endcase %}
         {{ post.date | date: "%Y" }}</p>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-8">
       <p><strong><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></strong></p>
     </div>
   </div>
