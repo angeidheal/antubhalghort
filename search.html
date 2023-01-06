@@ -6,11 +6,27 @@ permalink: /lorg/
 
 <p>Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.</p>
 
-<!-- Insert search form (_includes/search-form.html) here -->
-{% include search-form.html %}
+<!-- Html Elements for Search -->
+<div class="form-group" id="search-container">
+<input class="form-control" type="text" id="search-input" placeholder="Lorg sna postaichean..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />
+<ul style="padding-top: 30px" id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="https://angeidheal.github.io/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: 'https://angeidheal.github.io/js/search.json'
+})
+</script>
 
 <div class="section-divider"></div>
 
+<!--Most recent posts in each category-->
 <h4>Na postaichean as ùire</h4>
 
 <p>Ma tha sibh a' lorg post ùr ri leughadh, seo agaibh na postaichean as ùire anns gach roinn-seòrsa:</p>
