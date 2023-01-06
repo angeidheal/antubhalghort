@@ -26,6 +26,9 @@ title: Postaichean as ùire
         {% endcase %}
         {{ post.date | date: "%Y" }}
       </p>
+      {% if page.image %}
+        <img src="{{ site.baseurl }}{{ page.image }}" class="post-image">
+      {% endif %}
       <p>{{ post.content }}</p>
     </div>
   </div>
