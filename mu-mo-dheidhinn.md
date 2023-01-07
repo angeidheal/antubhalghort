@@ -30,7 +30,7 @@ Faodar fios a chur thugam air:
 
 #### Fo-sgriobh
 
-**RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: https://write.as/macmhicheil/feed/
+**RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
 
 **Mastodon.** [@angeidheal@mastodon.scot](https:www.mastodon.scot/@angeidheal)
 
