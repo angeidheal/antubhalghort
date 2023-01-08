@@ -1,9 +1,9 @@
 ---
-title: "Microsoft a' cur stad air leasachadh SwiftKey airson iOS"
-date: 2022-10-02 15:00
-author: Crìstean MacMhìcheil
 layout: post
+date: 2022-10-02 15:00
+title: "Microsoft a' cur stad air leasachadh SwiftKey airson iOS"
 image: /images/posts/SwiftKey.webp
+author: Crìstean MacMhìcheil
 categories:
     - Gàidhlig
     - Teicneòlas

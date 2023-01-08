@@ -1,9 +1,9 @@
 ---
-title: "Còdachadh: Cuimhneachain"
-date: 2017-08-02
-author: Crìstean MacMhìcheil
 layout: post
+date: 2017-08-02
+title: "Còdachadh: Cuimhneachain"
 image: /images/posts/2017-08-02-codachadh-cuimhneachain.webp
+author: Crìstean MacMhìcheil
 categories:
     - Blog
     - Gàidhlig

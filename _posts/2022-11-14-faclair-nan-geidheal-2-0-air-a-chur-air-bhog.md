@@ -1,9 +1,9 @@
 ---
-title: Faclair nan Gèidheal 2.0 air a chur air bhog
-date: 2022-11-14 10:24
-author: Crìstean MacMhìcheil
 layout: post
+date: 2022-11-14 10:24
+title: Faclair nan Gèidheal 2.0 air a chur air bhog
 image: /images/posts/fnang.webp
+author: Crìstean MacMhìcheil
 categories:
     - Blog
     - Gàidhlig

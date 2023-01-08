@@ -1,9 +1,9 @@
 ---
-title: Stràcan ann am Mac OS X 10.7 Lion
-date: 2011-07-24 12:43
-author: Crìstean MacMhìcheil
 layout: post
+date: 2011-07-24 12:43
+title: Stràcan ann am Mac OS X 10.7 Lion
 image: /images/posts/stracan-macos.jpeg
+author: Crìstean MacMhìcheil
 categories:
     - Gàidhlig
     - Teicneòlas

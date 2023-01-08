@@ -1,9 +1,9 @@
 ---
-title: An Dearbhair Beag ann am macOS
-date: 2020-05-08 15:00
-author: Crìstean MacMhìcheil
 layout: post
+date: 2020-05-08 15:00
+title: An Dearbhair Beag ann am macOS
 image: /images/posts/an-dearbhar-beag-macos.png
+author: Crìstean MacMhìcheil
 categories:
     - Gàidhlig
     - Teicneòlas

@@ -1,15 +1,13 @@
 ---
-title: Faclair.lgbt
-date: 2022-12-15 17:00  
-author: Crìstean MacMhìcheil
 layout: post
+date: 2022-12-15 17:00
+title: Faclair.lgbt
 image: /images/posts/fnang.webp
+author: Crìstean MacMhìcheil
 categories:
     - Blog
     - Gàidhlig
     - LGBTQIA+
-excerpt:
-  "Chaidh Faclair nan Gèidheal ùrachadh le URL ùr snasail agus faodar a rannsachadh a-nis! Tha e fhathast ri lorg air làrach-lìn a’ Ghèidheil Ùire cuideachd."
 ---
 
 Chaidh Faclair nan Gèidheal ùrachadh le URL ùr snasail[^1] agus faodar a rannsachadh a-nis! Tha e fhathast ri lorg air làrach-lìn a’ Ghèidheil Ùire cuideachd.
