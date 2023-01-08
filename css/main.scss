@@ -2,7 +2,7 @@
 ---
 // Theme
 $text-color: #f0f0f0;
-$background-color: #222222;
+$background-color: #0d1117;
 $brand-color: #008080;
 
 // Width of the content area
@@ -61,6 +61,7 @@ img {
 
 a {
   color: $brand-color;
+  font-weight: bold;
 }
 
 a:hover {
