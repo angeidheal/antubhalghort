@@ -24,13 +24,13 @@ Tha mi nam bhìogan.
 
 **RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
 
-**Mastodon.** [@angeidheal@mastodon.scot](https:www.mastodon.scot/@angeidheal)
+**Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
 #### Cuir fios
 
 Faodar fios a chur thugam air:
 
-**Mastodon.** [@angeidheal@mastodon.scot](https:www.mastodon.scot/@angeidheal)
+**Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
 **Post-d.** [fios@macmhicheil.scot](mailto:fios@macmhicheil.scot)
 
