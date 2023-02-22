@@ -9,6 +9,8 @@ categories:
     - Teicneòlas
 ---
 
+**Air ùrachadh:** 22mh An Gearran 2023
+
 Tha an Dearbhair Beag ’na dhearbhair-litreachaidh a tha stèidhichte air stòr-dàta nam faclan a tha san Fhaclair Bheag agus is esan an dearbhair as motha a tha ri fhaighinn aig an àm seo. Tha e air a fhilleadh ann an tionndaidhean Gàidhlig de na prògraman LibreOffice, OpenOffice agus Firefox o thùs. Is e adhbhar am post seo ge-tà sealltainn dhut mar a ghabhas a chleachdadh le taghadh nas fharsainge de phrògraman ann am MacOS.
 
 Tha stiùireadh air [iGàidhlig](http://www.igaidhlig.net/gd/an-dearbhair-beag/) ma tha thu airson a chleachdadh ann am Firefox, LibreOffice no OpenOffice.
@@ -33,5 +35,3 @@ Faodar a stàladh air macOS cuideachd agus gabhar a chleachdadh an uair sin anns
 6. Chi thu loidhne dearg fo fhaclan ceàrr agus faodaidh tu brùthadh orra leis a’putan-lucha deas gus an ceartachadh. Air neo faodaidh tu an sgrìobhainn air fad a cheartachadh le bhith a’ fosgladh **Spelling and Grammar** a-rithist (ceum 2)
 
 [^1]: Bu chòir dha obrachadh anns a’ chuid as motha de dh’aplacaidean bho Apple fhèin agus ann an iomadh aplacaid bho luchd-leasachaidh eile.
-
-**Air ùrachadh:** 22mh An Gearran 2023
