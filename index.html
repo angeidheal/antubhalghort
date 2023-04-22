@@ -1,64 +1,63 @@
 ---
 layout: page
-title: Postaichean as ùire
 ---
 
   {% for post in paginator.posts %}
-  <div class="row">
-    <div class="col-md-12">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p style="font-size: 14px">
-        {% assign m = post.date | date: "%-m" %}
-        {{ post.date | date: "%d" }}
-        {% case m %}
-          {% when '1' %}Am Faoilleach
-          {% when '2' %}An Gearran
-          {% when '3' %}Am Màrt
-          {% when '4' %}An Giblean
-          {% when '5' %}An Cèitean
-          {% when '6' %}An t-Ògmhios
-          {% when '7' %}An t-Iuchar
-          {% when '8' %}An Lùnastal
-          {% when '9' %}An t-Sultain
-          {% when '10' %}An Dàmhair
-          {% when '11' %}An t-Samhain
-          {% when '12' %}An Dùbhlachd
-        {% endcase %}
-        {{ post.date | date: "%Y" }}
-      </p>
-      {% if post.image %}
-        <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
-      {% endif %}
-      <p>{{ post.content }}</p>
-    </div>
-  </div>
+  
+  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  
+  <p>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%d" }}
+    {% case m %}
+      {% when '1' %}Am Faoilleach
+      {% when '2' %}An Gearran
+      {% when '3' %}Am Màrt
+      {% when '4' %}An Giblean
+      {% when '5' %}An Cèitean
+      {% when '6' %}An t-Ògmhios
+      {% when '7' %}An t-Iuchar
+      {% when '8' %}An Lùnastal
+      {% when '9' %}An t-Sultain
+      {% when '10' %}An Dàmhair
+      {% when '11' %}An t-Samhain
+      {% when '12' %}An Dùbhlachd
+    {% endcase %}
+    {{ post.date | date: "%Y" }}
+  </p>
+
+  {% if post.image %}
+    <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
+  {% endif %}
+  
+  {{ post.content }}
+  
+  <h1 style="text-align: center">• • •</h1>
   {% endfor %}
 
-  <div class="row">
-    <div class="col-md-12">
-        {% if paginator.total_pages > 1 %}
-        <ul class="pagination justify-content-center">
-          {% if paginator.next_page %}
-          <li class="page-item active">
-              <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
-            </li>
-          {% else %}
-            <li class="page-item disabled">
-              <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
-            </li>
-          {% endif %}
+  <div style="margin-top: 28px">
+  {% if paginator.total_pages > 1 %}
+  <ul class="pagination justify-content-center">
+    {% if paginator.next_page %}
+    <li class="page-item active">
+        <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
+      </li>
+    {% else %}
+      <li class="page-item disabled">
+        <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
+      </li>
+    {% endif %}
 
-          {% if paginator.previous_page %}
-            <li class="page-item active">
-              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
-            </li>
-          {% else %}
-            <li class="page-item disabled">
-              <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
-            </li>
-          {% endif %}
-
-          </ul>
-        {% endif %}
-    </div>
+    {% if paginator.previous_page %}
+      <li class="page-item active">
+        <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
+      </li>
+    {% else %}
+      <li class="page-item disabled">
+        <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
+      </li>
+    {% endif %}
+    </ul>
+  {% endif %}
   </div>
+
