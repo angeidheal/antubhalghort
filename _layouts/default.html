@@ -10,7 +10,11 @@ layout: compress
     {% include navigation.html %}
 
     <div class="container content-area">
-      {{ content }}
+      <div class="row">
+        <div class="col-md-6 offset-md-3">
+          {{ content }}
+        </div>
+      </div>
     </div>
 
     {% include footer.html %}
