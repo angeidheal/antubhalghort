@@ -9,30 +9,34 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-  {% for post in site.categories[page.category] %}
-  <div class="row">
-    <div class="col-md-4">
-      <p>
-        {% assign m = post.date | date: "%-m" %}
-        {{ post.date | date: "%d" }}
-        {% case m %}
-          {% when '1' %}Am Faoilleach
-          {% when '2' %}An Gearran
-          {% when '3' %}Am Màrt
-          {% when '4' %}An Giblean
-          {% when '5' %}An Cèitean
-          {% when '6' %}An t-Ògmhios
-          {% when '7' %}An t-Iuchar
-          {% when '8' %}An Lùnastal
-          {% when '9' %}An t-Sultain
-          {% when '10' %}An Dàmhair
-          {% when '11' %}An t-Samhain
-          {% when '12' %}An Dùbhlachd
-        {% endcase %}
-        {{ post.date | date: "%Y" }}</p>
-    </div>
-    <div class="col-md-8">
-      <p><strong><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></strong></p>
-    </div>
-  </div>
-  {% endfor %}
+{% for post in site.categories[page.category] %}
+
+  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  
+  <p>
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%d" }}
+    {% case m %}
+      {% when '1' %}Am Faoilleach
+      {% when '2' %}An Gearran
+      {% when '3' %}Am Màrt
+      {% when '4' %}An Giblean
+      {% when '5' %}An Cèitean
+      {% when '6' %}An t-Ògmhios
+      {% when '7' %}An t-Iuchar
+      {% when '8' %}An Lùnastal
+      {% when '9' %}An t-Sultain
+      {% when '10' %}An Dàmhair
+      {% when '11' %}An t-Samhain
+      {% when '12' %}An Dùbhlachd
+    {% endcase %}
+    {{ post.date | date: "%Y" }}
+  </p>
+
+  {% if post.image %}
+    <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
+  {% endif %}
+  
+  {{ post.content }}
+
+{% endfor %}
