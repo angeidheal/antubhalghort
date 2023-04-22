@@ -20,13 +20,13 @@ Ann an 2020, chruthaich mi an t‑seirbheis aimsir Ghàidhlig[^3], Aimsir.scot.
 
 Tha mi nam bhìogan.
 
-#### Fo-sgriobh
+## Fo-sgriobh
 
 **RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
 
 **Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
-#### Cuir fios
+## Cuir fios
 
 Faodar fios a chur thugam air:
 
@@ -34,7 +34,7 @@ Faodar fios a chur thugam air:
 
 **Post-d.** [fios@macmhicheil.scot](mailto:fios@macmhicheil.scot)
 
-#### Notaichean
+## Notaichean
 
 [^1]: Tha leth‑bhreac dheth fhathast ri lorg san [tasg‑lann aig The Internet Archive](https://web.archive.org/web/20090205170058/http://abairthusa.ning.com/)
 
