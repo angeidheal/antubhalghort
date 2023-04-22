@@ -1,12 +1,21 @@
 ---
+
 layout: post
+
 date: 2011-07-24 12:43
+
 title: Stràcan ann am Mac OS X 10.7 Lion
+
 image: /images/posts/stracan-macos.jpeg
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Gàidhlig
     - Teicneòlas
+
+mastodon:
+
 ---
 
 Faodar stràcan a dhèanamh air Mac OS X le bhith a’ cliogadh **OPTION (⌥)** + **\`** + **LITIR**, mar eisimpleir **OPTION (⌥)** + **\`** + **a** = **à**.
