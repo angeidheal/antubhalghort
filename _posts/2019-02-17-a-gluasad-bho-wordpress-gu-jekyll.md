@@ -1,12 +1,21 @@
 ---
+
 layout: post
+
 date: 2019-02-17 18:00
-title: "A' gluasad bho WordPress gu Jekyll"
+
+title: A' gluasad bho WordPress gu Jekyll
+
 image: /images/posts/jekyll.jpg
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Blog
     - Teicneòlas
+
+mastodon:
+
 ---
 
 O chionn 2008 tha Geidh.uk air a bhith na bhlog WordPress (a’ ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a’ cumail suas leam fhèin.
