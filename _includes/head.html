@@ -3,7 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{{ page.title }} - {{ site.title }}</title>
+  {% if page.title %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
 
   <!--CSS-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
@@ -12,7 +16,7 @@
   <!--Fonts-->
   <script src="https://kit.fontawesome.com/3bcb25d86b.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lemonada:300,400,500,600,700" />
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:Light,Regular,Bold,ExtraBold,Italic" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Outfit:Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black" />
 
   <!--Web app-->
   <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
