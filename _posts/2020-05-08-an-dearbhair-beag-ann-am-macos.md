@@ -27,11 +27,9 @@ Faodar a stàladh air macOS cuideachd agus gabhar a chleachdadh an uair sin anns
 
 ### Stiùireadh cleachdaidh
 
-1. Fosgail aplacaid sgrìobhaidh a-leithid Mail, Notes no TextEdit[^1].
+1. Fosgail aplacaid sgrìobhaidh a-leithid Mail, Notes no TextEdit (Bu chòir dha obrachadh anns a’ chuid as motha de dh’aplacaidean bho Apple fhèin agus ann an iomadh aplacaid bho luchd-leasachaidh eile.).
 2. Brùth air **Edit -> Spelling and Grammar -> Show Spelling and Grammar**.
 3. Atharraich **Automatic by Language** gu **Gàidhlig (Library)**.
 4. Dùin a’ bhogsa **Spelling and Grammar**.
 5. Faodaidh tu tòiseachadh air sgrìobhadh.
-6. Chi thu loidhne dearg fo fhaclan ceàrr agus faodaidh tu brùthadh orra leis a’putan-lucha deas gus an ceartachadh. Air neo faodaidh tu an sgrìobhainn air fad a cheartachadh le bhith a’ fosgladh **Spelling and Grammar** a-rithist (ceum 2)
-
-[^1]: Bu chòir dha obrachadh anns a’ chuid as motha de dh’aplacaidean bho Apple fhèin agus ann an iomadh aplacaid bho luchd-leasachaidh eile.
+6. Chi thu loidhne dearg fo fhaclan ceàrr agus faodaidh tu brùthadh orra leis a’putan-lucha deas gus an ceartachadh. Air neo faodaidh tu an sgrìobhainn air fad a cheartachadh le bhith a’ fosgladh **Spelling and Grammar** a-rithist (ceum 2).
