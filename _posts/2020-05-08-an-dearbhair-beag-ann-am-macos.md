@@ -1,12 +1,21 @@
 ---
+
 layout: post
+
 date: 2020-05-08 15:00
+
 title: An Dearbhair Beag ann am macOS
+
 image: /images/posts/an-dearbhar-beag-macos.png
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Gàidhlig
     - Teicneòlas
+
+mastodon:
+
 ---
 
 **Air ùrachadh:** 22mh An Gearran 2023
@@ -17,7 +26,7 @@ Tha stiùireadh air [iGàidhlig](http://www.igaidhlig.net/gd/an-dearbhair-beag/)
 
 Faodar a stàladh air macOS cuideachd agus gabhar a chleachdadh an uair sin anns a' chuid as motha de dh'aplacaidean bho Apple is luchd-leasachaidh eile.
 
-### Stiùireadh stàlaidh
+## Stiùireadh stàlaidh
 
 1. Luchdaich sìos an tionndadh as ùire bho làrach-lìn [LibreOffice](https://extensions.libreoffice.org/en/extensions/show/an-dearbhair-beag-scottish-gaelic-spellchecker). ’S e 3.5 a th’ ann an-dràsta - 22mh An Gearran 2023.
 2. Nuair a tha thu air an fhaidhle seo a luchdachadh sìos feumaidh tu a ath-ainmeachadh bho **hunspell-gd-3.5.oxt** gu **hunspell-gd-3.5.zip**.
@@ -25,7 +34,7 @@ Faodar a stàladh air macOS cuideachd agus gabhar a chleachdadh an uair sin anns
 4. Anns a’ phasgain seo, lorgaidh tu pasgain eile, **Dictionaries** anns a bhios dà fhaidhle; **gd_GB.aff**, agus **gd_GB.dic**.
 5. Tagh an dà fhaidhle seo agus gluais iad gu **~/Library/Spelling/** no **/Library/Spelling/**.
 
-### Stiùireadh cleachdaidh
+## Stiùireadh cleachdaidh
 
 1. Fosgail aplacaid sgrìobhaidh a-leithid Mail, Notes no TextEdit (Bu chòir dha obrachadh anns a’ chuid as motha de dh’aplacaidean bho Apple fhèin agus ann an iomadh aplacaid bho luchd-leasachaidh eile.).
 2. Brùth air **Edit -> Spelling and Grammar -> Show Spelling and Grammar**.
