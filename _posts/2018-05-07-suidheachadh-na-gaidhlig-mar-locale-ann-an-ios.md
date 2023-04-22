@@ -1,12 +1,21 @@
 ---
+
 layout: post
+
 date: 2018-05-07 11:34
+
 title: Suidheachadh na Gàidhlig mar locale ann an iOS
+
 image: /images/posts/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios.png
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Gàidhlig
     - Teicneòlas
+
+mastodon:
+
 ---
 
 Coltach ri macOS chan eil cùs Gàidhlig a’ nochdadh ann an iOS.
