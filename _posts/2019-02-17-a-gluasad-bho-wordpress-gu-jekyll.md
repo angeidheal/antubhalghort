@@ -26,7 +26,7 @@ Tha mi air feuchainn ri buaidh a’ ghluasaid a lùghdachadh – bu chòir a’ 
 
 Dh’fhaodadh gum bi bug no dhà ann fhathast is mar sin bhithinn fada nur comain ma chuireas sibh fios thugam air Twitter ma lorgas sibh fear.
 
-#### Dè th’ ann an Jekyll?
+## Dè th’ ann an Jekyll?
 
 ‘S e gineadair làrach-lìn a th’ ann an Jekyll a bhios a’ toirt faidhlichean teacsa (a’ toirt a-steach faidhlichean Markdown) gus làraichean-lìn stadaigeach a chruthachadh a dh’fhaodar a luchdachadh.
 
