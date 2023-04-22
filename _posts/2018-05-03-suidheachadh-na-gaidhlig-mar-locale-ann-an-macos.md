@@ -1,12 +1,21 @@
 ---
+
 layout: post
+
 date: 2018-05-03 14:08
+
 title: Suidheachadh na Gàidhlig mar locale ann an macOS
+
 image: /images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.jpg
+
 author: Crìstean MacMhìcheil
+
 categories:
     - Gàidhlig
     - Teicneòlas
+
+mastodon:
+
 ---
 
 Gu mì-fhòrtanach chan eil cus Gàidhlig ann am macOS aig an ìre-sa ach o Mac OS X 10.8 a-mach ’s urrainn dhut Gàidhlig a thaghadh mar locale. Tha seo a’ ciallachadh gum bi prògraman treas-phàrtaidh a leithid Opera, VLC agus LibreOffice (agus prògraman eile a chleachdas gleus a dh’atharraicheas cànan nam prògraman a-rèir an locale) a’ nochdadh anns a’ Ghàidhlig ged nach bi na prògraman a thàinig le Apple fhèin.
