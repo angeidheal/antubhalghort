@@ -65,11 +65,11 @@ img {
 }
 
 a {
-  color: $brand-color;
+  color: $text-color;
 }
 
 a:hover {
-  color: $text-color;
+  color: $brand-color;
 }
 
 p a, li a {
