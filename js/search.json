@@ -10,8 +10,8 @@
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ post.date }}",
-      "content"  : "{{ post.content | strip_html | strip_newlines }}"
-      
+      "content"  : "{{ post.content | strip_html | strip_newlines | jsonify }}"
+
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
