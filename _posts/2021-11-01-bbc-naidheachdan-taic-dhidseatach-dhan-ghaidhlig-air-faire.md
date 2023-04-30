@@ -4,7 +4,7 @@ layout: post
 
 date: 2021-11-01
 
-title: "BBC Naidheachdan: Taic dhidseatach dhan Ghàidhlig air fàire"
+title: "BBC Naidheachdan: \"Taic dhidseatach dhan Ghàidhlig air fàire\""
 
 image:
 
@@ -16,4 +16,4 @@ categories:
   
 ---
 
-Pìos inntinneach a nochd air làrach-lìn a' BhBC an-diugh mu dheidhinn teicneòlais ùir a nì eadar-theangachadh beò air a' Ghàidhlig: [Taic dhidseatach dhan Ghàidhlig air fàire](https://www.bbc.co.uk/naidheachdan/59117114)
+Pìos inntinneach a nochd air làrach-lìn a' BhBC an-diugh mu dheidhinn teicneòlais ùir a nì eadar-theangachadh beò air a' Ghàidhlig: [Taic dhidseatach dhan Ghàidhlig air fàire](https://www.bbc.co.uk/naidheachdan/59117114).
