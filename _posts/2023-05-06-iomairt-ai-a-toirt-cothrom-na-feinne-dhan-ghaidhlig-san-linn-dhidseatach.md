@@ -20,4 +20,4 @@ categories:
 >
 > Bheir am maoineachadh cothrom dhan sgioba tòiseachadh air obrachadh a dh’ionnsaigh a bhith a’ cruthachadh modail cànain mòr – coltach ri ChatGPT – airson luchd-labhairt na Gàidhlig.
 
-Gheibhear barrachd fhiosrachaidh mun a' phròiseact [an-seo](https://www.ed.ac.uk/news/2023/ai-initiative-gives-gaelic-a-foothold-in-the-digit/iomairt-ai-a-toirt-cothrom-na-feinne-dhan-ghaidhli).
+Gheibhear barrachd fhiosrachaidh mun phròiseact [an-seo](https://www.ed.ac.uk/news/2023/ai-initiative-gives-gaelic-a-foothold-in-the-digit/iomairt-ai-a-toirt-cothrom-na-feinne-dhan-ghaidhli).
