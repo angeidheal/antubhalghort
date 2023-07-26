@@ -4,9 +4,9 @@ layout: page
 
   {% for post in paginator.posts %}
   
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <h1 style="text-align: center">{{ post.title }}</h1>
   
-  <p>
+  <p style="text-align: center"><a href="{{ site.baseurl }}{{ post.url }}">
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
@@ -24,7 +24,7 @@ layout: page
       {% when '12' %}An Dùbhlachd
     {% endcase %}
     {{ post.date | date: "%Y" }}
-  </p>
+  </a></p>
 
   {% if post.image %}
     <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
