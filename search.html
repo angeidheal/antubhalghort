@@ -4,6 +4,9 @@ title: Tasg-lannan
 permalink: /tasg-lannan/
 ---
 
+
+<h2>Lorg</h2>
+
 <p>Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.</p>
 
 <!-- Html Elements for Search -->
@@ -26,7 +29,13 @@ SimpleJekyllSearch({
 
 <div class="section-divider"></div>
 
-<!--Most recent posts in each category-->
+<h2>Roinnean-seòrsa</h2>
+
+{% for category in site.data.categories | sort %}
+	<div><a href="{{ category.url }}">{{ category.title }}</a></div>
+{% endfor %}
+
+<!--Most recent posts in each category
 <h2>Na postaichean as ùire</h2>
 
 <p>Ma tha sibh a' lorg post ùr ri leughadh, seo agaibh na postaichean as ùire anns gach roinn-seòrsa:</p>
@@ -42,4 +51,4 @@ SimpleJekyllSearch({
       </ul>
     </li>
   {% endfor %}
-</ul>
+</ul>-->
