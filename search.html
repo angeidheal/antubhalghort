@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Tasg-lannan
-permalink: /tasg-lannan/
+title: Lorg
+permalink: /lorg/
 ---
-
-
-<h2>Lorg</h2>
 
 <p>Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.</p>
 
@@ -26,29 +23,3 @@ SimpleJekyllSearch({
   json: '/js/search.json'
 })
 </script>
-
-<div class="section-divider"></div>
-
-<h2>Roinnean-seòrsa</h2>
-
-{% for category in site.data.categories | sort %}
-	<div><a href="{{ category.url }}">{{ category.title }}</a></div>
-{% endfor %}
-
-<!--Most recent posts in each category
-<h2>Na postaichean as ùire</h2>
-
-<p>Ma tha sibh a' lorg post ùr ri leughadh, seo agaibh na postaichean as ùire anns gach roinn-seòrsa:</p>
-
-<ul>
-{% assign sorted_categories = site.categories | sort %}
-  {% for category in sorted_categories %}
-    <li><a name="{{ category | first }}">{{ category | first }}</a>
-      <ul>
-      {% for post in category.last limit:3 %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>-->
