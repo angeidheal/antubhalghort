@@ -26,11 +26,15 @@ Tha mi nam bhìogan.
 
 **RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
 
+**Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
+
 **Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
 ## Cuir fios
 
 Faodar fios a chur thugam air:
+
+**Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
 
 **Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
