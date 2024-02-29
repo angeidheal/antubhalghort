@@ -6,7 +6,7 @@ permalink: /mu-mo-dheidhinn/
 
 <img class="avatar" src="/images/icons/cristean.jpg" />
 
-Fàilte dhan Ubhal-ghort, blog mu dheidhinn teicneòlais Apple, na Gàidhlig agus nam pròiseactan air a bheil mi ag obair.
+Fàilte dhan bhlog agam far a bhios mi a' sgrìobhadh mu dheidhinn teicneòlais Apple, na Gàidhlig agus nam pròiseactan air a bheil mi ag obair.
 
 Is mise Crìstean MacMhìcheil. Rugadh is thogadh mi ann an Siorrachd Rois.
 
@@ -24,11 +24,11 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-**RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
+**RSS.** [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
+
+**Instagram** [https://instagram.com/angeidheal](https://instagram.com/angeidheal)
 
 **Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
-
-**Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
 
 ## Cuir fios
 
@@ -36,7 +36,7 @@ Faodar fios a chur thugam air:
 
 **Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
 
-**Mastodon.** [@angeidheal@mastodon.scot](https://www.mastodon.scot/@angeidheal)
+**Instagram** [https://instagram.com/angeidheal](https://instagram.com/angeidheal)
 
 **Post-d.** [fios@macmhicheil.scot](mailto:fios@macmhicheil.scot)
 
