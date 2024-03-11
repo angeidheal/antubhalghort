@@ -26,6 +26,8 @@ Tha mi nam bhìogan.
 
 **RSS.** [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
 
+**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
+
 **Instagram** [https://instagram.com/angeidheal](https://instagram.com/angeidheal)
 
 **Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
@@ -33,6 +35,8 @@ Tha mi nam bhìogan.
 ## Cuir fios
 
 Faodar fios a chur thugam air:
+
+**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
 
 **Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
 
